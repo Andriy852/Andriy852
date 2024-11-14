@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a Data Science student with a background in **
 </p>
 
 ## Contact me
-<a href="www.linkedin.com/in/andrii-zhurba-5a2320297">
+<a href="https://www.linkedin.com/in/andrii-zhurba-5a2320297">
     <img src="images/linkedin.png" width="100">
 </a>
-<a href="andrijzurba79@gmail.com">
+<a href="mailto:andrijzurba79@gmail.com">
     <img src="images/gmail.png" width="85">
 </a>
