@@ -17,3 +17,26 @@ Welcome to my GitHub profile! I'm a Data Science student with a background in **
 
 ## I use
 
+
+<p align="center">
+  <img src="images/Docker_150x150px-01-01-01.webp" width="30" height="30">
+  <img src="images/Python.svg.png" width="30" height="30">
+  <img src="images/pandas.svg" width="30" height="30">
+  <img src="images/Jupyter_logo.svg.png" width="30" height="30">
+  <img src="images/cloud.webp" width="30" height="30">
+  <img src="images/scikit-learn.png" width="30" height="30">
+  <img src="images/Visual_studio.svg.png" width="30" height="30">
+  <img src="images/PyCharm_Icon.svg.png" width="30" height="30">
+  <img src="images/duckdb_logo.jpeg" width="30" height="30">
+  <img src="images/images.png" width="30" height="30">
+  <img src="images/sql_logo.png" width="30" height="30">
+  <img src="images/seaborn-1.svg" width="30" height="30">
+</p>
+
+## Contact me
+<a href="www.linkedin.com/in/andrii-zhurba-5a2320297">
+    <img src="images/linkedin.png" width="100">
+</a>
+<a href="andrijzurba79@gmail.com">
+    <img src="images/gmail.png" width="85">
+</a>
